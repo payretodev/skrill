@@ -1,0 +1,15 @@
+{
+    "name": "payretodev/skrill",
+    "type": "package",
+    "description": "Skrill Hosted Payment Solution",
+    "keywords": ["Skrill Hosted Payment Solution","skrill"],
+    "homepage": "https://github.com/payretodev/skrill",
+    "license": "OSL-3.0",
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.5.0"
+    },
+     "autoload": {
+        "psr-0": {"skrill": "Skrill/"}
+    }
+}
